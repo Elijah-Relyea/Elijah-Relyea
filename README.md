@@ -10,7 +10,7 @@ I'm passionate about building engaging web applications and collaborating with o
 ---
 
 ## 🚀 Tech Stack  
-🛠️ **Languages:** HTML, CSS, JavaScript  
+🛠️ **Languages:** HTML/CSS, Git, Github, VSCode, Figma, JavaScript
 🔧 **Tools:** Git, VS Code  
 📚 **Currently Learning:** JavaScript mastery, secure coding practices, Git troubleshooting, and more!    
 
